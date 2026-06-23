@@ -1,11 +1,11 @@
-🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
+🧠 Evaluación Sumativa 2– Desarrollo Orientado a Objetos I
+
 👤 Autor del proyecto
-Nombre completo: [Escribe aquí tu nombre]
-Sección: [Escribe aquí tu sección]
-Carrera: Ingeniería en Informática
-Sede: [Escribe aquí tu sede, por ejemplo: Puerto Montt]
-📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Final Transversal de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
+
+Nombre completo: Ignacia Llanos
+
+Carrera:Analista Programador computacional
+
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
@@ -27,6 +27,6 @@ Ejecuta el archivo Main.java desde el paquete app.
 
 Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
-Repositorio GitHub: [Pega aquí el enlace al repositorio] Fecha de entrega: [DD/MM/2025]
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+
+
