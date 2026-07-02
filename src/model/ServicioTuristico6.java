@@ -1,13 +1,13 @@
 package model;
 
-public class ServicioTuristico {
+public class ServicioTuristico6 {
     protected String nombre;
     protected int duracionHoras;
 
-    public ServicioTuristico() {
+    public ServicioTuristico6() {
     }
 
-    public ServicioTuristico(String nombre, int duracionHoras) {
+    public ServicioTuristico6(String nombre, int duracionHoras) {
         this.nombre = nombre;
         this.duracionHoras = duracionHoras;
     }

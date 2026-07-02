@@ -1,16 +1,16 @@
 package model;
 
-public class PaseoLacuestre extends ServicioTuristico {
+public class PaseoLacuestre6 extends ServicioTuristico6 {
     private String tipoEmbarcacion;
 
-    public PaseoLacuestre() {
+    public PaseoLacuestre6() {
     }
 
-    public PaseoLacuestre(String tipoEmbarcacion) {
+    public PaseoLacuestre6(String tipoEmbarcacion) {
         this.tipoEmbarcacion = tipoEmbarcacion;
     }
 
-    public PaseoLacuestre( String tipoEmbarcacion, String nombre, int duracionHoras) {
+    public PaseoLacuestre6(String tipoEmbarcacion, String nombre, int duracionHoras) {
         super(nombre, duracionHoras);
         this.tipoEmbarcacion = tipoEmbarcacion;
     }

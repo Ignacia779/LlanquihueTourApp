@@ -1,16 +1,16 @@
 package model;
 
-public class RutaGastronomica extends ServicioTuristico {
+public class RutaGastronomica6 extends ServicioTuristico6 {
     private int numeroDeParadas;
 
-    public RutaGastronomica() {
+    public RutaGastronomica6() {
     }
 
-    public RutaGastronomica(int numeroDeParadas) {
+    public RutaGastronomica6(int numeroDeParadas) {
         this.numeroDeParadas = numeroDeParadas;
     }
 
-    public RutaGastronomica(int numeroDeParadas, String nombre, int duracionHoras) {
+    public RutaGastronomica6(int numeroDeParadas, String nombre, int duracionHoras) {
         super(nombre, duracionHoras); //llama al constructor de ServicioTuristico
         this.numeroDeParadas = numeroDeParadas;
     }
