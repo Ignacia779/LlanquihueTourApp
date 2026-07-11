@@ -1,1 +1,47 @@
+# LlanquihueTourApp
+
+## 📌 Descripción
+Sistema orientado a objetos para la agencia de turismo **Llanquihue Tour**, desarrollado en Java.  
+Permite gestionar distintas entidades de la empresa (Direcciones, Personas, Empleados, Guías Turísticos, Vehículos, Colaboradores Externos) desde una interfaz gráfica básica.  
+El proyecto integra **interfaces, polimorfismo y colecciones dinámicas**, facilitando la administración de registros de manera flexible.
+
+---
+
+## 🏗️ Clases e Interfaces utilizadas
+- **Interfaz `Registrable`**  
+  - Método: `mostrarResumen()`  
+  - Implementada por todas las entidades gestionables.
+
+- **Clases principales (paquete `model/`):**
+  - `Direccion`
+  - `Persona`
+  - `Empleado` (hereda de Persona)
+  - `GuiaTuristico`
+  - `Vehiculo`
+  - `ColaboradorExterno`
+
+- **Gestor de entidades (paquete `data/`):**
+  - `GestorEntidades`  
+  - Utiliza `ArrayList<Registrable>` para almacenar objetos polimórficos.  
+  - Diferencia tipos con `instanceof`.
+
+- **Interfaz gráfica (paquete `ui/`):**
+  - `MainGUI`  
+  - Menú con `JOptionPane` para ingresar y mostrar entidades.
+
+---
+
+## ⚙️ Funcionalidades
+- Ingreso de datos para crear entidades (Dirección, Persona, Empleado, etc.).
+- Almacenamiento en una colección polimórfica.
+- Visualización de objetos creados mediante `mostrarResumen()`.
+- Diferenciación de comportamiento según el tipo de entidad usando `instanceof`.
+- Interfaz gráfica simple y funcional para usuarios no técnicos.
+
+---
+
+## 🚀 Ejecución
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/LlanquihueTourApp.git
 
