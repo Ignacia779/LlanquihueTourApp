@@ -1,0 +1,20 @@
+echo "# LlanquihueTourApp – Semana 7
+
+## 📖 Descripción
+En esta semana se desarrolló la ampliación del sistema turístico, incorporando nuevas clases y funcionalidades.  
+Se organizaron los paquetes (model, service, app, util) y se añadieron métodos para gestionar empleados y servicios turísticos.  
+Además, se resolvieron conflictos de integración con el trabajo de la semana anterior, manteniendo ambos módulos (Semana_6 y Semana_7).
+
+## ⚙️ Instrucciones de compilación
+1. Clonar el repositorio:
+   git clone https://github.com/Ignacia779/LlanquihueTourApp.git
+2. Abrir el proyecto en IntelliJ IDEA o cualquier IDE compatible con Maven/Java.
+3. Configurar el SDK de Java (Java 17 recomendado).
+4. Compilar el proyecto:
+   mvn clean install
+
+## ▶️ Ejecución del sistema
+1. Localizar la clase principal en src/app/Main.java
+2. Ejecutar el método main desde IntelliJ (clic derecho → Run 'Main.main()').
+3. El sistema cargará los datos y mostrará la información de los servicios turísticos en la consola.
+" > README.md
