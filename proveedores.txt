@@ -1,0 +1,4 @@
+12.345.678-9;Fernanda López;Avenida Austral 120;Osorno;Los Lagos;Administradora
+9.875.432-1;Juan Pérez;Pasaje Andino 8;Llanquihue;los Lagos;Guía de Montaña
+11.222.333-4;Ana María;Calle del lago 54;Puerto Varas;Los Lagos;Secretaria
+15.765.921-2;Carlos Donoso;Pasaje los Lirios 23;Puerto Montt;Los Lagos;Coordinador de rutas gastronomicas
